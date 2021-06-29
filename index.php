@@ -2,7 +2,8 @@
 // Initialize the session
 session_start();
 require_once('db_connection.php');
-$conn = mysqli_connect("localhost","root","","portfolio");
+//$conn = mysqli_connect("localhost","root","","portfolio");
+$conn = mysqli_connect("remotemysql.com","bwdVjv2xHE","hofhBDePT7","bwdVjv2xHE");
 // Check if the user is logged in, if not then redirect him to login page
 // if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 //     header("location: index.php");
