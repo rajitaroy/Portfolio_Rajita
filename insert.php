@@ -9,8 +9,8 @@ session_start();
 // }
 require_once('db_connection.php');
 
-$conn = mysqli_connect("localhost","root","","portfolio");
-
+//$conn = mysqli_connect("localhost","root","","portfolio");
+$conn = mysqli_connect("remotemysql.com","bwdVjv2xHE","hofhBDePT7","bwdVjv2xHE");
 if (mysqli_connect_errno()) {
   echo "Failed to connect to MySQL: " . mysqli_connect_error();
   exit();
