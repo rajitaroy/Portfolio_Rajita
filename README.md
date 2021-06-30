@@ -1,1 +1,1 @@
-Check my portfolio out on: https://portfolio-rajita.herokuapp.com/
+Check the deployed website on Heroku: https://portfolio-rajita.herokuapp.com/
