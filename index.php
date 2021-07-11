@@ -74,7 +74,7 @@ $result = mysqli_query($conn, $query);
                 <div class="column right">
                     <div class="text">I'm Rajita and I'm a <span class="typing-2"></span></div>
                     <p>I'm Rajita Roy, currently pursuing Computer Engineering under Savitribai Phule Pune University and studying in third year. I'll be graduating in 2022. Passionate about web development and Data science, I'd like you to give a read to this portfolio to know me better.</p>
-                    <a href="CV_Rajita Roy.pdf">Download CV</a>
+                    <a href="https://github.com/rajitaroy">Check my GitHub out</a>
                 </div>
             </div>
         </div>
@@ -180,7 +180,7 @@ $result = mysqli_query($conn, $query);
                         <p>Web Application to predict if one has Diabetes based on certain medical records of an individual.</p>
                     </div>
                     </div>
-                <h4><br>For more projects and details, please download my <a href = "#about">CV</a>.</h4><br>
+                <h4><br>For more projects and details, check <a href = "https://github.com/rajitaroy">github</a>.</h4><br>
                 </div>
             </div>
         </div>
