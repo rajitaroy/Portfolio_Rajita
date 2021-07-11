@@ -88,7 +88,7 @@ $result = mysqli_query($conn, $query);
             <div class="skills-content">
                 <div class="column left">
                     <div class="text">My creative skills & experiences.</div>
-                    <p>To check more of my skills, please download my <a href = "#about">CV</a></p>
+<!--                     <p>To check more of my skills, please download my <a href = "#about">CV</a></p> -->
                 </div>
                 <div class="column right">
                     <div class="bars">
@@ -180,7 +180,7 @@ $result = mysqli_query($conn, $query);
                         <p>Web Application to predict if one has Diabetes based on certain medical records of an individual.</p>
                     </div>
                     </div>
-                <h4><br>For more projects and details, check <a href = "https://github.com/rajitaroy">github</a>.</h4><br>
+<!--                 <h4><br>For more projects and details, check <a href = "https://github.com/rajitaroy">github</a>.</h4><br> -->
                 </div>
             </div>
         </div>
